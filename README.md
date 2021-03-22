@@ -1,2 +1,2 @@
-# dryhula1
+# FirstC#
 first git project, study
